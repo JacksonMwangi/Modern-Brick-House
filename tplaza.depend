@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1454146616 source:c:\users\user\desktop\series\tplaza\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1454146616 c:\users\user\desktop\series\tplaza\imageloader.h
+
+1628083467 source:c:\users\user\desktop\series\tplaza\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"imageloader.h"
+
+1426338928 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426338928 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1454146616 source:c:\users\hp\desktop\tplaza\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1454146616 c:\users\hp\desktop\tplaza\imageloader.h
+
+1628083468 source:c:\users\hp\desktop\tplaza\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"imageloader.h"
+
+1454146616 source:c:\users\hp\desktop\tplaza\tplaza\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1454146616 c:\users\hp\desktop\tplaza\tplaza\imageloader.h
+
+1628513511 source:c:\users\hp\desktop\tplaza\tplaza\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"imageloader.h"
+
